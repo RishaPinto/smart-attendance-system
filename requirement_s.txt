@@ -1,0 +1,8 @@
+opencv-python
+numpy
+torch
+torchvision
+facenet-pytorch
+ultralytics
+deep-sort-realtime
+pyodbc
